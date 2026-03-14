@@ -5,7 +5,7 @@
 Jeison Rothmund
 
 > role
-Full Stack Developer | DevSecOps | Security Enthusiast
+Full Stack Developer | Web Security Researcher | Pentesting | Bug Bounty
 
 > focus
 Secure Development
@@ -17,15 +17,13 @@ Bug Bounty
 https://jeisondev.com.br
 ```
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SEUUSERNAME)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jeisoDev)
 
 ---
 
 # 👋 Sobre mim
 
-💻 Desenvolvedor focado em **aplicações seguras, APIs e sistemas escaláveis**
-
-🔐 Estudando **Pentest, Web Security e DevSecOps**
+💻 Desenvolvedor de aplicações web e APIs.
 
 🐞 Explorando **Bug Bounty**
 
@@ -33,34 +31,14 @@ https://jeisondev.com.br
 
 🎓 Formação em **Análise e Desenvolvimento de Sistemas**
 🎓 Formação em **Engenharia de Software**
-
----
-
-# 🧠 Segurança
-
-<div align="center">
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=415771" style="border:none;"></iframe>
-
-</div>
+🎓 Formação em **MBA em Cibersegurança e Gestão de Riscos**
 
 ---
 
 # 📊 GitHub Stats
 
 ![Jeison GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME\&show_icons=true\&theme=tokyonight)
-
----
-
-# 🧠 Linguagens mais usadas
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSERNAME\&theme=tokyonight)
 
 ---
 
