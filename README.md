@@ -35,20 +35,13 @@ https://jeisondev.com.br
 
 ---
 
-# 📊 GitHub Stats
-
-![Jeison GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 # 📫 Contato
 
 📧 Email
 [jeisonrothmund97@gmail.com](mailto:jeisonrothmund97@gmail.com)
 
 🔗 LinkedIn
-https://www.linkedin.com/in/jeison-rothmund-086038225/
+https://www.linkedin.com/in/jeison-rothmund/
 
 🌐 Website
 https://jeisondev.com.br
